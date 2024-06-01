@@ -1190,4 +1190,4 @@ Values:
 `,zfe=ns.div`
   max-width: 900px;
   margin: 0 auto;
-`;function Wfe(){const{network:e}=Cu();return Zt(qfe,{children:Zt(zfe,{children:Si(Hv,{children:[Si(uu,{children:[Zt(Zk,{}),Zt(Kv,{children:e?e===Ps.MAINNET?"mainnet":"testnet":"N/A"})]}),Zt(Pfe,{}),Zt(Nfe,{}),Zt(Lfe,{}),Zt(Ffe,{})]})})})}const Hfe="https://raw.githubusercontent.com/ton-community/tutorials/main/03-client/test/public/tonconnect-manifest.json",Kfe=new dU({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});r3.createRoot(document.getElementById("root")).render(Zt(aG,{manifestUrl:Hfe,children:Zt(IN,{client:Kfe,children:Zt(Wfe,{})})}));
+`;function Wfe(){const{network:e}=Cu();return Zt(qfe,{children:Zt(zfe,{children:Si(Hv,{children:[Si(uu,{children:[Zt(Zk,{}),Zt(Kv,{children:e?e===Ps.MAINNET?"mainnet":"testnet":"N/A"})]}),Zt(Pfe,{}),Zt(Nfe,{}),Zt(Lfe,{}),Zt(Ffe,{})]})})})}const Hfe="https://github.com/Cr0wly/toggle_clicker_twa/blob/main/public/tonconnect-manifest.json",Kfe=new dU({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});r3.createRoot(document.getElementById("root")).render(Zt(aG,{manifestUrl:Hfe,children:Zt(IN,{client:Kfe,children:Zt(Wfe,{})})}));
