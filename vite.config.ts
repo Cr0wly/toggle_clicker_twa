@@ -5,5 +5,5 @@ import { nodePolyfills } from "vite-plugin-node-polyfills";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), nodePolyfills()],
-  base: "toggle_clicker_twa",
+  base: "/toggle_clicker_twa/",
 });

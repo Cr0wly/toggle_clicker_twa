@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Cr0wly.github.io/toggle_clicker_twa",
+  "homepage": "https://Cr0wly.github.io/toggle-clicker-twa",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
